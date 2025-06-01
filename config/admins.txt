@@ -150,3 +150,5 @@ WaylandSmithy = Game Master
 NamelessFairy = Game Master
 WalterMeldron = Game Master
 san7890 = Game Master
+drifter7371 = Game Master
+Drifter7371 = Game Master
